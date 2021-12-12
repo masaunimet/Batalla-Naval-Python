@@ -1,0 +1,5 @@
+masa500,TonyCunsolo,20 anios,Masculino,90 pts
+reyjamy,Jeremy,46 anios,Femenino,88 pts
+sevma,Mauro,6 anios,Otro,86 pts
+muramana,Andy,100 anios,Otro,0 pts
+xx3,Qeqwewqe,40 anios,Otro,90 pts
